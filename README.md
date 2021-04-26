@@ -43,20 +43,7 @@ Additionally, the Zillow Dataset from our partners at Flatiron School was used. 
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/US_Census_Data_Cleaning_and_Sorting/US_Census_excel_analysis.PNG)
   
 ### Using Texas as our starting point, we see that based on value_counts() for the Zillow Data, Houston has the highest number of zip codes. Therefore the city we will look at is Houston. 
-
-
-Houston           86
-San Antonio       47
-Austin            38
-Dallas            33
-Fort Worth        26
-                  ..
-Aldine             1
-Weatherford        1
-Mount Pleasant     1
-Canton             1
-Mart               1
-Name: City, Length: 540, dtype: int64
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/houston%20top%205.PNG)
 
 ### After choosing Houston, I obtained a list of all the zip codes which are in Houston and pulled the population data for each Houston zip code to find the top five most populous zip codes. 
 
