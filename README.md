@@ -32,5 +32,29 @@ Additionally, the Zillow Dataset from our partners at Flatiron School was used. 
 ### I took this info and color coded which states showed up multiple times. Although Idaho is the main winner, we see that Texas shows up in all 3 categories of Numeric, Populous, and Percentage Growth. Therefore we will go with Texas as our choice. 
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/US_Census_Data_Cleaning_and_Sorting/US_Census_excel_analysis.PNG)
   
+### Using Texas as our starting point, we see that based on value_counts() for the Zillow Data, Houston has the highest number of zip codes. Therefore the city we will look at is Houston. 
 
 
+Houston           86
+San Antonio       47
+Austin            38
+Dallas            33
+Fort Worth        26
+                  ..
+Aldine             1
+Weatherford        1
+Mount Pleasant     1
+Canton             1
+Mart               1
+Name: City, Length: 540, dtype: int64
+
+### After choosing Houston, I obtained a list of all the zip codes which are in Houston and pulled the population data for each Houston zip code to find the top five most populous zip codes. 
+
+Census data can be [**found here**](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Data%20Files/US%20Census%20Analysis.xlsx)
+Custom Link can be accessed with [**this link**](https://data.census.gov/cedsci/table?q=DP05&t=Age%20and%20Sex&g=8600000US77002,77003,77004,77005,77006,77007,77008,77013,77014,77015,77016,77017,77018,77019,77020,77021,77024,77025,77027,77028,77029,77030,77031,77032,77033,77034,77035,77036,77037,77038,77040,77041,77042,77043,77044,77045,77047,77048,77049,77050,77051,77053,77054,77055,77056,77057,77058,77059,77060,77061,77062,77063,77066,77067,77068,77069,77070,77071,77072,77073,77074,77075,77077,77078,77079,77080,77081,77082,77084,77085,77086,77087,77088,77089,77090,77091,77092,77093,77094,77095,77096,77098,77099,77339,77345&tid=ACSST5Y2019.S0101&hidePreview=false)
+
+I did the following with the Census dataset:
+  1. Removing all columns I don't need. I only want zip code column and population column
+  2. Fixing the data type to int in order to sort properly
+  3. Sorting the dataframe by population highest to lowest
+  4. .head() to find the top 5
