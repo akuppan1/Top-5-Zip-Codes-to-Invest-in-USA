@@ -66,3 +66,6 @@ I did the following with the Census dataset:
 3. Change column names to "ds" and "y" in order for the dataset to play nice with Facebook Prophet time series analysis
 4. Run quick check for any nulls/Nans for my sanity
 
+### Once the zip codes are chosen, I made a separate .csv file for each zip code to prep it for time series analysis with FBProphet.
+The prepped data files can be fround [**here**](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/tree/main/Data%20Files)
+
