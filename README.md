@@ -22,7 +22,7 @@ Additionally, the Zillow Dataset from our partners at Flatiron School was used. 
   
 
 ## Assumptions
-  1.Focus on where people are moving to. Which state are people leaving and to which state are the most people going to?
+  1. Focus on where people are moving to. Which state are people leaving and to which state are the most people going to?
   2. The investment firm is a smaller firm looking to expand into a new area.
   3. The firm will want to have clusters of zip codes nearby for ease of management.
   4. Firm will not be outsourcing work to other property managers. Work will be done in-house.
