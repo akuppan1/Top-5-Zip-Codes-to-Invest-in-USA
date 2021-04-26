@@ -22,14 +22,14 @@ Additionally, the Zillow Dataset from our partners at Flatiron School was used. 
 
 ## Initial Obtain/Scrub/Exploration of Data
 
-### Based on this [**2017 U.S. Census press release for fastest growing states**](https://www.census.gov/newsroom/press-releases/2017/estimates-idaho.html#:~:text=DEC.,state%20population%20estimates%20released%20today), although Idaho is the main winner, we see that Texas shows up in all 3 categories of Numeric, Populous, and Percentage Growth. Therefore we will go with Texas as our choice. The three photos below are sourced from the article. 
+### Based on this [**2017 U.S. Census press release for fastest growing states**](https://www.census.gov/newsroom/press-releases/2017/estimates-idaho.html#:~:text=DEC.,state%20population%20estimates%20released%20today), the three photos below are sourced from the article. 
 
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/US_Census_Data_Cleaning_and_Sorting/US_Census_Top10_1.PNG)
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/US_Census_Data_Cleaning_and_Sorting/US_Census_Top10_2.PNG)
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/US_Census_Data_Cleaning_and_Sorting/US_Census_Top10_3.PNG)
 
 
-### I took this info and color coded which states showed up multiple times
+### I took this info and color coded which states showed up multiple times. Although Idaho is the main winner, we see that Texas shows up in all 3 categories of Numeric, Populous, and Percentage Growth. Therefore we will go with Texas as our choice. 
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/US_Census_Data_Cleaning_and_Sorting/US_Census_excel_analysis.PNG)
   
 
