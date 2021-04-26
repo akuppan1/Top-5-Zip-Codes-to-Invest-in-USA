@@ -20,6 +20,16 @@ Additionally, the Zillow Dataset from our partners at Flatiron School was used. 
   4. Interpret model results and diagnostics. 
   5. Give business recommendations from analysis.
 
+
+## Assumptions
+  1.Focus on where people are moving to. Which state are people leaving and to which state are the most people going to?
+  2. The investment firm is a smaller firm looking to expand into a new area.
+  3. The firm will want to have clusters of zip codes nearby for ease of management.
+  4. Firm will not be outsourcing work to other property managers. Work will be done in-house.
+  5. We will not be buying apartment buildings but are open to do so in the future.
+  6. We will look for areas where laws are favorable to landlords as a bonus.
+  7. Since dataset given has data until April 2018, we will use data on or before that date to simulate real time
+
 ## Initial Obtain/Scrub/Exploration of Data
 
 ### Based on this [**2017 U.S. Census press release for fastest growing states**](https://www.census.gov/newsroom/press-releases/2017/estimates-idaho.html#:~:text=DEC.,state%20population%20estimates%20released%20today), the three photos below are sourced from the article. 
@@ -128,6 +138,7 @@ The U.S. Census data also shows that people are moving in and the state as a who
 ## Additional observations
 ### 1. Houston has flood zones. However, the choices that we have are in slightly higher elevation areas. I've provided the areas below on a topographic map. 
 ### 2. There is also a flood map of 311 calls from ABC news which talks about where specifically people were calling from saying their homes are flooded. These can help further narrow our choices down to the house/block level. 
+### 3. Texas shows up on lists as a land-lord friendly state. [**Example**](https://www.auction.com/blog/5-landlord-friendly-states-in-2019/)
 
 [**SOURCE: https://en-gb.topographic-map.com/maps/fbcl/Houston/**](https://en-gb.topographic-map.com/maps/fbcl/Houston/)
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/houston%20topographic%20map%20-%20Copy.PNG)
@@ -142,4 +153,3 @@ The U.S. Census data also shows that people are moving in and the state as a who
   3. Utilize different time series tools other than Fbprophet
       - Limitations with tool for monthly data
   4. Obtain Daily instead of monthly dataset of home values from same time range and re-apply analysis
-  5. 
