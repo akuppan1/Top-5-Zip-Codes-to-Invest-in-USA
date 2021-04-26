@@ -21,7 +21,8 @@ Additionally, the Zillow Dataset from our partners at Flatiron School was used. 
   5. Give business recommendations from analysis.
 
 ## Initial Obtain/Scrub/Exploration of Data
-  
+
+### Based on this [**2017 U.S. Census press release**](https://www.census.gov/newsroom/press-releases/2017/estimates-idaho.html#:~:text=DEC.,state%20population%20estimates%20released%20today), we see that Texas shows to be a clear winner amongst the states. It shows up in all 3 categories of Numeric, Populous, and Percentage Growth.
 
   
 
