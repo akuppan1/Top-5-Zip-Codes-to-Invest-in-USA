@@ -13,4 +13,10 @@
 
 Additionally, the Zillow Dataset from our partners at Flatiron School was used. [**Link to the Dataset**](https://github.com/learn-co-curriculum/dsc-phase-4-project/blob/main/time-series/zillow_data.csv)
 
+## Agenda
+  1. Look at general population trends for every state in the U.S.
+  2. Narrow down from state to city and then to the most populous zip codes in that city. 
+  3. Run time series analysis using Facebook Prophet and forecast with model.
+  4. Interpret model results and model diagnostics. 
+
 
