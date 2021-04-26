@@ -17,6 +17,12 @@ Additionally, the Zillow Dataset from our partners at Flatiron School was used. 
   1. Look at general population trends for every state in the U.S.
   2. Narrow down from state to city and then to the most populous zip codes in that city. 
   3. Run time series analysis using Facebook Prophet and forecast with model.
-  4. Interpret model results and model diagnostics. 
+  4. Interpret model results and diagnostics. 
+  5. Give business recommendations from analysis.
+
+## Initial Obtain/Scrub/Exploration of Data
+  
+
+  
 
 
