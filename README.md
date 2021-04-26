@@ -129,3 +129,4 @@ The U.S. Census data also shows that people are moving in and the state as a who
 ### 1. Houston has flood zones. However, the choices that we have are in slightly higher elevation areas. The flooded areas usually happened around the southeast Houston areas. Our choices are in the north west in higher elevation. I used a rudimentary scan of the topogaphry of the area for elevation ranges. 
 
 [**SOURCE: https://en-gb.topographic-map.com/maps/fbcl/Houston/**](https://en-gb.topographic-map.com/maps/fbcl/Houston/)
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/houston%20topographic%20map%20-%20Copy.PNG)
