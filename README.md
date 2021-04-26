@@ -28,6 +28,9 @@ Additionally, the Zillow Dataset from our partners at Flatiron School was used. 
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/US_Census_Data_Cleaning_and_Sorting/US_Census_Top10_2.PNG)
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/US_Census_Data_Cleaning_and_Sorting/US_Census_Top10_3.PNG)
 
+
+### I took this info and color coded which states showed up multiple times
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/US_Census_Data_Cleaning_and_Sorting/US_Census_excel_analysis.PNG)
   
 
 
