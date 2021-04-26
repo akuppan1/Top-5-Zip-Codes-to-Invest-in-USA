@@ -69,9 +69,9 @@ I did the following with the Census dataset:
 ### Once the zip codes are chosen, I made a separate .csv file for each zip code to prep it for time series analysis with FBProphet.
 The prepped data files can be fround [**here**](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/tree/main/Data%20Files)
 
-## Analysis of each zip code:
+# Analysis of each zip code:
 
-### [PICK #1] 77084
+## [PICK #1] 77084
 #### Plot of Data
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77084_1.PNG)
 
@@ -81,7 +81,7 @@ The prepped data files can be fround [**here**](https://github.com/akuppan1/Flat
 #### Analysis of MAPE (Mean Average Percent Error)
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77084_3.PNG)
 
-### [PICK #2] 77036
+## [PICK #2] 77036
 #### Plot of Data
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77036_1.PNG)
 
@@ -91,7 +91,7 @@ The prepped data files can be fround [**here**](https://github.com/akuppan1/Flat
 #### Analysis of MAPE (Mean Average Percent Error)
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77036_3.PNG)
 
-### [PICK #3] 77095
+## [PICK #3] 77095
 #### Plot of Data
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77095_1.PNG)
 
@@ -101,7 +101,7 @@ The prepped data files can be fround [**here**](https://github.com/akuppan1/Flat
 #### Analysis of MAPE (Mean Average Percent Error)
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77095_3.PNG)
 
-### [PICK #4] 77072
+## [PICK #4] 77072
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77072_1.PNG)
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77072_2.PNG)
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77072_3.PNG)
