@@ -72,10 +72,26 @@ The prepped data files can be fround [**here**](https://github.com/akuppan1/Flat
 ## Analysis of each zip code:
 
 ### [PICK #1] 77084
--put pic of time series
--put pic of mape
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77084_1.PNG)
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77084_2.PNG)
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77084_3.PNG)
 
 ### [PICK #2] 77036
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77036_1.PNG)
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77036_2.PNG)
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77036_3.PNG)
+
 ### [PICK #3] 77095
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77095_1.PNG)
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77095_1.PNG)
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77095_1.PNG)
+
 ### [PICK #4] 77072
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77072_1.PNG)
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77072_1.PNG)
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77072_1.PNG)
+
 ### [PICK #5] 77077 
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77077_1.PNG)
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77077_1.PNG)
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77077_1.PNG)
