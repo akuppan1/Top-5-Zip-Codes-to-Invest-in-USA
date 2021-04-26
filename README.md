@@ -126,7 +126,20 @@ I believe that these five zip codes will be a great starting point. The forecast
 The U.S. Census data also shows that people are moving in and the state as a whole is still growing in numbers. We can supply that demand
 
 ## Additional observations
-### 1. Houston has flood zones. However, the choices that we have are in slightly higher elevation areas. I've provided the areas below as well as  
+### 1. Houston has flood zones. However, the choices that we have are in slightly higher elevation areas. I've provided the areas below on a topographic map. 
+### 2. There is also a flood map of 311 calls from ABC news which talks about where specifically people were calling from saying their homes are flooded. These can help further narrow our choices down to the house/block level. 
 
 [**SOURCE: https://en-gb.topographic-map.com/maps/fbcl/Houston/**](https://en-gb.topographic-map.com/maps/fbcl/Houston/)
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/houston%20topographic%20map%20-%20Copy.PNG)
+
+[**SOURCE: https://abc13.com/houston-flooding-where-does-it-flood-in/5683641/**](https://abc13.com/houston-flooding-where-does-it-flood-in/5683641/)
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/flood_abc_map.PNG)
+
+# Future Work
+  1. Explore/Use Crime Data from the federal government [**Link Here**](https://crime-data-explorer.fr.cloud.gov/)
+  2. Zillow Word Cloud on the MLS database [**Link Here**](https://www.zillow.com/research/popular-listing-phrases-by-state-12213/)
+      - This can be useful for finding house patterns like how many bedrooms and bathrooms
+  3. Utilize different time series tools other than Fbprophet
+      - Limitations with tool for monthly data
+  4. Obtain Daily instead of monthly dataset of home values from same time range and re-apply analysis
+  5. 
