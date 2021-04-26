@@ -72,13 +72,13 @@ The prepped data files can be fround [**here**](https://github.com/akuppan1/Flat
 # Analysis of each zip code:
 
 ## [PICK #1] 77084
-#### Plot of Data
+### --------------------Plot of Data--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77084_1.PNG)
 
-#### Forecast
+#### --------------------Forecast--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77084_2.PNG)
 
-#### Analysis of MAPE (Mean Average Percent Error)
+#### --------------------Analysis of MAPE (Mean Average Percent Error)--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77084_3.PNG)
 
 ## [PICK #2] 77036
