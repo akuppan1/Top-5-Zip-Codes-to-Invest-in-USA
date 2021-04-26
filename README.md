@@ -19,7 +19,7 @@ Additionally, the Zillow Dataset from our partners at Flatiron School was used. 
   3. Run time series analysis using Facebook Prophet and forecast with model.
   4. Interpret model results and diagnostics. 
   5. Give business recommendations from analysis.
-
+  
 
 ## Assumptions
   1.Focus on where people are moving to. Which state are people leaving and to which state are the most people going to?
