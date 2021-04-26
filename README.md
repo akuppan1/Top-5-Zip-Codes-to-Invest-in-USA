@@ -120,3 +120,12 @@ The prepped data files can be fround [**here**](https://github.com/akuppan1/Flat
 
 ### --------------------Analysis of MAPE (Mean Average Percent Error)--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77077_3.PNG)
+
+# Overall Observations and Recommendations:
+I believe that these five zip codes will be a great starting point. The forecasts of the top 5 zip codes show that there is a strong upward trend in property values. 
+The U.S. Census data also shows that people are moving in and the state as a whole is still growing in numbers. We can supply that demand
+
+## Additional observations
+### 1. Houston has flood zones. However, the choices that we have are in slightly higher elevation areas. The flooded areas usually happened around the southeast Houston areas. Our choices are in the north west in higher elevation. I used a rudimentary scan of the topogaphry of the area for elevation ranges. 
+
+[**SOURCE: https://en-gb.topographic-map.com/maps/fbcl/Houston/**](https://en-gb.topographic-map.com/maps/fbcl/Houston/)
