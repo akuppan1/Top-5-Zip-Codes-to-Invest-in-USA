@@ -75,38 +75,48 @@ The prepped data files can be fround [**here**](https://github.com/akuppan1/Flat
 ### --------------------Plot of Data--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77084_1.PNG)
 
-#### --------------------Forecast--------------------
+### --------------------Forecast--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77084_2.PNG)
 
-#### --------------------Analysis of MAPE (Mean Average Percent Error)--------------------
+### --------------------Analysis of MAPE (Mean Average Percent Error)--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77084_3.PNG)
 
 ## [PICK #2] 77036
-#### Plot of Data
+#### --------------------Plot of Data--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77036_1.PNG)
 
-#### Forecast
+### --------------------Forecast--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77036_2.PNG)
 
-#### Analysis of MAPE (Mean Average Percent Error)
+### --------------------Analysis of MAPE (Mean Average Percent Error)--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77036_3.PNG)
 
 ## [PICK #3] 77095
-#### Plot of Data
+### --------------------Plot of Data--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77095_1.PNG)
 
-#### Forecast
+### --------------------Forecast--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77095_2.PNG)
 
-#### Analysis of MAPE (Mean Average Percent Error)
+### --------------------Analysis of MAPE (Mean Average Percent Error)--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77095_3.PNG)
 
 ## [PICK #4] 77072
+### --------------------Plot of Data--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77072_1.PNG)
+
+### --------------------Analysis of MAPE (Mean Average Percent Error)--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77072_2.PNG)
+
+
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77072_3.PNG)
 
-### [PICK #5] 77077 
+## [PICK #5] 77077 
+### --------------------Plot of Data--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77077_1.PNG)
+
+### --------------------Forecast--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77077_2.PNG)
+
+### --------------------Analysis of MAPE (Mean Average Percent Error)--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77077_3.PNG)
