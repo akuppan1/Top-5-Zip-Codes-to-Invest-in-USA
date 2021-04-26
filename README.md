@@ -60,7 +60,7 @@ I did the following with the Census dataset:
   3. Sorting the dataframe by population highest to lowest
   4. .head() to find the top 5
 
-### Once we have the top 5 zip codes we do the following:
+### Now that we have the top 5 zip codes we do the following:
 1. Use pd.melt() method to keep only the columns that we want and turn price data from row of values to column of values
 2. I create new .csv files which only contain the zip code and the associated value of homes
 3. Change column names to "ds" and "y" in order for the dataset to play nice with Facebook Prophet time series analysis
@@ -69,3 +69,13 @@ I did the following with the Census dataset:
 ### Once the zip codes are chosen, I made a separate .csv file for each zip code to prep it for time series analysis with FBProphet.
 The prepped data files can be fround [**here**](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/tree/main/Data%20Files)
 
+## Analysis of each zip code:
+
+### [PICK #1] 77084
+-put pic of time series
+-put pic of mape
+
+### [PICK #2] 77036
+### [PICK #3] 77095
+### [PICK #4] 77072
+### [PICK #5] 77077 
