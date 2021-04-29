@@ -66,9 +66,19 @@ I did the following with the Census dataset:
 ### Once the zip codes are chosen, I made a separate .csv file for each zip code to prep it for time series analysis with FBProphet.
 The prepped data files can be fround [**here**](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/tree/main/Data%20Files)
 
-# Analysis of each zip code:
+# --- Analysis of each zip code: ---
 
-## [PICK #1] 77084
+## [PICK #1] 77084 - Stationarity and ARMA model
+### --------------------Decomposition of Series--------------------
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/ARMA/1_final_arma_0.JPG)
+
+### Auto-Correlation and Partial-Auto-Correlation (After De-trended and Transformed Series to Stationary)
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/ARMA/1_final_arma_1.JPG)
+
+### -------- ARMA Model with 3 year forecast ---------
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/ARMA/1_final_arma_2.JPG)
+
+## [PICK #1] 77084 - FACEBOOK PROPHET MODEL
 ### --------------------Plot of Data--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77084_1.PNG)
 
@@ -78,7 +88,18 @@ The prepped data files can be fround [**here**](https://github.com/akuppan1/Flat
 ### --------------------Analysis of MAPE (Mean Average Percent Error)--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77084_3.PNG)
 
-## [PICK #2] 77036
+## [PICK #2] 77036 - Stationarity and ARMA model
+
+### --------------------Decomposition of Series--------------------
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/ARMA/2_final_arma_0.JPG)
+
+### Auto-Correlation and Partial-Auto-Correlation (After De-trended and Transformed Series to Stationary)
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/ARMA/2_final_arma_1.JPG)
+
+### -------- ARMA Model with 3 year forecast ---------
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/ARMA/2_final_arma_2.JPG)
+
+## [PICK #2] 77036 - FACEBOOK PROPHET MODEL
 #### --------------------Plot of Data--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77036_1.PNG)
 
@@ -88,7 +109,19 @@ The prepped data files can be fround [**here**](https://github.com/akuppan1/Flat
 ### --------------------Analysis of MAPE (Mean Average Percent Error)--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77036_3.PNG)
 
-## [PICK #3] 77095
+
+## [PICK #3] 77095 - Stationarity and ARMA model
+
+### --------------------Decomposition of Series--------------------
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/ARMA/3_final_arma_0.JPG)
+
+### Auto-Correlation and Partial-Auto-Correlation (After De-trended and Transformed Series to Stationary)
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/ARMA/3_final_arma_1.JPG)
+
+### -------- ARMA Model with 3 year forecast ---------
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/ARMA/3_final_arma_2.JPG)
+
+## [PICK #3] 77095 - FACEBOOK PROPHET MODEL
 ### --------------------Plot of Data--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77095_1.PNG)
 
@@ -98,7 +131,20 @@ The prepped data files can be fround [**here**](https://github.com/akuppan1/Flat
 ### --------------------Analysis of MAPE (Mean Average Percent Error)--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77095_3.PNG)
 
-## [PICK #4] 77072
+
+## [PICK #4] 77072 - Stationarity and ARMA model
+
+### --------------------Decomposition of Series--------------------
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/ARMA/4_final_arma_0.JPG)
+
+### Auto-Correlation and Partial-Auto-Correlation (After De-trended and Transformed Series to Stationary)
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/ARMA/4_final_arma_1.JPG)
+
+### -------- ARMA Model with 3 year forecast ---------
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/ARMA/4_final_arma_2.JPG)
+
+
+## [PICK #4] 77072 - FACEBOOK PROPHET MODEL
 ### --------------------Plot of Data--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77072_1.PNG)
 
@@ -108,7 +154,20 @@ The prepped data files can be fround [**here**](https://github.com/akuppan1/Flat
 
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77072_3.PNG)
 
-## [PICK #5] 77077 
+
+## [PICK #5] 77077 - Stationarity and ARMA model
+
+### --------------------Decomposition of Series--------------------
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/ARMA/5_final_arma_0.JPG)
+
+### Auto-Correlation and Partial-Auto-Correlation (After De-trended and Transformed Series to Stationary)
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/ARMA/5_final_arma_1.JPG)
+
+### -------- ARMA Model with 3 year forecast ---------
+![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/ARMA/5_final_arma_2.JPG)
+
+
+## [PICK #5] 77077 - FACEBOOK PROPHET MODEL
 ### --------------------Plot of Data--------------------
 ![](https://github.com/akuppan1/Flatiron-Mod4Proj-FINAL/blob/main/Notebook%20Pics/77077_1.PNG)
 
